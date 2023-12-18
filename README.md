@@ -10,3 +10,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 Test commit description
 The time is : {% site.time %}
+
+Status check comment
